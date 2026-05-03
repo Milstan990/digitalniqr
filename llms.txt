@@ -1,0 +1,76 @@
+# Basic information
+site: https://www.digitalniqr.com
+name: DigitalniQR
+description: Digitalni QR meniji za restorane, kafiće i hotele. Povećajte prodaju, ubrzajte uslugu i smanjite troškove uz digitalni jelovnik.
+
+language: sr
+region: RS
+
+# Core pages
+sections:
+  - name: Početna
+    url: https://www.digitalniqr.com/
+    description: Pregled digitalnih QR menija i benefita za ugostitelje
+
+  - name: Generiši QR kod
+    url: https://www.digitalniqr.com/p/generisi-qr-kod.html
+    description: Alat za brzo kreiranje QR koda za meni ili link
+
+  - name: Cenovnik
+    url: https://www.digitalniqr.com/p/digitalni-meni-cenovnik-usluga.html
+    description: Pregled paketa i cena usluga
+
+  - name: Kontakt
+    url: https://www.digitalniqr.com/p/kontakt.html
+    description: Kontakt forma i informacije
+
+  - name: Blog
+    url: https://www.digitalniqr.com/search
+    description: Saveti za restorane, marketing i digitalne menije
+
+# High-value content (SEO + AI preporuke)
+content:
+  - https://www.digitalniqr.com/
+  - https://www.digitalniqr.com/p/generisi-qr-kod.html
+  - https://www.digitalniqr.com/p/digitalni-meni-cenovnik-usluga.html
+
+  # Blog (najbitniji tekstovi)
+  - https://www.digitalniqr.com/2026/04/automatsko-azuriranje-cena-digitalni-meni.html
+  - https://www.digitalniqr.com/2026/03/fotografije-u-digitalnom-qr-meniju.html
+  - https://www.digitalniqr.com/2026/03/drveni-qr-kod-stalak-za-digitalni-meni.html
+  - https://www.digitalniqr.com/2026/02/kako-gosti-zaista-biraju-jelo-digitalni-meni.html
+  - https://www.digitalniqr.com/2026/02/izrada-jelovnika-za-restorane.html
+  - https://www.digitalniqr.com/2026/02/da-li-gosti-stvarno-koriste-qr-meni.html
+  - https://www.digitalniqr.com/2025/12/razlozi-za-prelazak-na-qr-digitalni-meni-restorana.html
+  - https://www.digitalniqr.com/2025/12/kako-dobiti-vise-pozitivnih-google-recenzija.html
+
+# Topics (pomaže AI da razume nišu)
+topics:
+  - QR kod meniji
+  - digitalni jelovnici
+  - marketing za restorane
+  - povećanje prodaje u ugostiteljstvu
+  - Google recenzije
+  - digitalizacija ugostiteljstva
+
+# Target audience
+audience:
+  - restorani
+  - kafići
+  - hoteli
+  - apartmani
+  - ugostitelji
+
+# AI usage policy
+ai:
+  allow: true
+  usage:
+    - indexing
+    - summarization
+    - recommendation
+  restrictions:
+    - no full content reproduction
+    - no commercial reuse without permission
+
+# Contact
+contact: digitalnimenisrbija@gmail.com
